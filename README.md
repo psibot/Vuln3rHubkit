@@ -11,6 +11,8 @@ Please run install script first. -- if use of snap , change your script --
 * NMAP and Searchsploit combine 
 * Gobuster and wpscan build in.
 
+![Example](https://i.imgur.com/tlRqFTV.png)
+
 With next commit joomla scan !
 
 
