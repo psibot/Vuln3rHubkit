@@ -8,9 +8,11 @@ Tested on Ubuntu and Kali.
 
 Please run install script first. -- if use of snap , change your script --
 
-* NMAP and Searchsploit 
+* NMAP and Searchsploit combine 
+* Gobuster and wpscan build in.
 
-<script id="asciicast-qdAk5KfeDTKOSLFekZilyM91L" src="https://asciinema.org/a/qdAk5KfeDTKOSLFekZilyM91L.js" async></script>)
+With next commit joomla scan !
+
 
 Features : 
 
