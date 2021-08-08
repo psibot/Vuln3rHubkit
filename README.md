@@ -6,6 +6,7 @@ A script for helping.
 
 Tested on Ubuntu and Kali.
 
+Please run install script first.
 
 
 
