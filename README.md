@@ -8,6 +8,9 @@ Tested on Ubuntu and Kali.
 
 Please run install script first. -- if use of snap , change your script --
 
+* NMAP and Searchsploit 
+![Example](https://asciinema.org/a/qdAk5KfeDTKOSLFekZilyM91L)
+
 
 Features : 
 
