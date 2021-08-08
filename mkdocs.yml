@@ -1,0 +1,8 @@
+site_name: Vuln3rHubkit
+site_url: https://example.com/
+
+
+nav:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs

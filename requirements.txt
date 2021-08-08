@@ -1,0 +1,10 @@
+pymetasploit3
+mkdocs
+click-man
+sploitkit
+peewee
+prompt_toolkit
+requests
+tinyscript>=1.24.6
+python-nmap
+python3-nmap

