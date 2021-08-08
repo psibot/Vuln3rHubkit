@@ -9,7 +9,9 @@ Tested on Ubuntu and Kali.
 Please run install script first. -- if use of snap , change your script --
 
 * NMAP and Searchsploit 
-[![asciicast](https://asciinema.org/a/qdAk5KfeDTKOSLFekZilyM91L.svg)](https://asciinema.org/a/qdAk5KfeDTKOSLFekZilyM91L)
+
+![Example](https://asciinema.org/a/qdAk5KfeDTKOSLFekZilyM91L?t=25&speed=2&theme=solarized-dark)
+
 
 Features : 
 
