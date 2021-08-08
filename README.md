@@ -10,8 +10,7 @@ Please run install script first. -- if use of snap , change your script --
 
 * NMAP and Searchsploit 
 
-![Example](https://asciinema.org/a/qdAk5KfeDTKOSLFekZilyM91L?t=25&speed=2&theme=solarized-dark)
-
+<script id="asciicast-qdAk5KfeDTKOSLFekZilyM91L" src="https://asciinema.org/a/qdAk5KfeDTKOSLFekZilyM91L.js" async></script>
 
 Features : 
 
