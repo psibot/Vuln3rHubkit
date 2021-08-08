@@ -6,7 +6,7 @@ A script for helping.
 
 Tested on Ubuntu and Kali.
 
-Please run install script first. -- if use of snap , change ypur script --
+Please run install script first. -- if use of snap , change your script --
 
 
 Features : 
